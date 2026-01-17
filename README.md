@@ -69,15 +69,18 @@
 ## MÉTRICAS
 
 <p align="center">
-  <img height="155"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=38BDF8&title_color=E5E7EB" />
-  <img height="155"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=github-dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="135"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=github_dark&hide_border=true&title_color=E5E7EB&langs_count=6" />
+  <img height="160"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="140"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <br/>
