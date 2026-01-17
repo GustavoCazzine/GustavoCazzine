@@ -3,8 +3,8 @@
   <h3>Software Engineering Student | Java Backend Focus</h3>
   
   <p>
-    Transformando regras de negócio complexas em arquiteturas de software escaláveis.<br>
-    Unindo a eficiência da <b>Logística</b> com a lógica da <b>Engenharia</b>.
+    Estudante de Engenharia de Software unindo a eficiência da <b>Logística</b><br>
+    com a lógica de <b>Desenvolvimento de Sistemas</b>.
   </p>
 
   <a href="https://www.linkedin.com/in/gustavo-cazzine/" target="_blank">
@@ -17,47 +17,47 @@
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Arsenal
 
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/intellij-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
 </div>
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 Analytics & Code Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Gustavo's Github Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Stats"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Langs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Langs"/>
   </a>
 </div>
 
 <br>
 
-## 🏆 Main Projects
+## 🏆 Portfolio & Projects
 
-| **Project** | **Stack** | **Status** |
+| **Project** | **Stack / Tech** | **Type** |
 |:---:|:---:|:---:|
-| **[Auto Brilho Web App](https://github.com/GustavoCazzine/SEU_REPO_AQUI)** | JavaScript, DOM, API WhatsApp | ✅ Concluído |
-| **Studio Nayra System** | Java, POO, Web | 🚀 Em produção |
-| **School Manager** | Java Core, Swing | 🚧 Refatorando |
+| **[Auto Brilho Web App](https://github.com/GustavoCazzine/SEU_LINK_AQUI)** | JavaScript (ES6), DOM, WhatsApp API | 💼 **Freelance (Real)** |
+| **[Studio Nayra Ananias](https://www.studionayraananias.com.br/)** | HTML5, CSS3, UI/UX Design | 💼 **Freelance (Real)** |
+| **School Management System** | Java Core, POO, Swing | 🎓 **Academic / Study** |
+| **Barbershop Manager** | Java, Lógica de Agendamento | 🎓 **Academic / Study** |
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=dracula&hide_border=true" alt="Streak" />
 </div>
