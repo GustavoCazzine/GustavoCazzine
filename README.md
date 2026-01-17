@@ -1,67 +1,90 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=D71A1A&center=true&vCenter=true&width=600&lines=public+class+GustavoCazzine+extends+Dev;System.out.println(%22Hello,+World!%22);Building+Backend+Solutions..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=D71A1A&center=true&vCenter=true&width=600&lines=public+class+GustavoCazzine+extends+Dev;System.out.println(%22Hello,+World!%22);Building+Backend+Solutions..." alt="Typing SVG" />
 </div>
 <br />
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
 
 ### 💾 Source_Code.java
 
 ```java
 public class GustavoCazzine {
     
+    // Core Attributes
     String role = "Software Engineering Student";
     String focus = "Java Backend Ecosystem";
     String location = "Piracicaba, SP";
 
-    String[] hobbies = {
+    // Hobbies & Interests
+    String[] personalLife = {
         "Financial Analysis",
         "Desktop Gaming",
         "Code Architecture"
     };
 
-    public void currentObjective() {
-        System.out.println("Mastering Spring Boot");
+    // Current Mission
+    public void execute() {
+        while(alive) {
+            study("Spring Boot");
+            code("Scalable APIs");
+        }
     }
 }
 
-<div align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVA-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SPRING-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" /> </div> </td> <td width="50%" valign="top">
+<br />
 
-@@ The Path to Seniority @@
-+ [x] Lvl 0: Logic & Algorithms
-+ [x] Lvl 1: Version Control (Git)
-+ [x] Lvl 2: Java Core (Syntax/Collections)
-+ [x] Lvl 3: Object Oriented Programming
-+ [x] Lvl 4: Relational Databases (SQL)
-! [!] Lvl 5: Frameworks (Spring) <-- YOU ARE HERE
-- [ ] Lvl 6: Microservices & Cloud
-- [ ] Lvl 7: System Design & Architecture
-- [ ] Lvl 8: Seniority Achieved
-</td>
+### 3\. Dashboard Visual (KPIs e Stats)
 
-</tr> </table> <br />
-
-### 3\. Projetos (Tabela Técnica)
-
-*Cole abaixo da tabela anterior.*
+*Substituímos o texto por **Cards Visuais**. Configurei eles para usar exatamente o seu tema (Fundo preto, texto branco, ícones vermelhos).*
+*(Nota: Se os cards não aparecerem de imediato, é porque precisam identificar seu usuário do GitHub real na URL. Eu usei "GustavoCazzine" como placeholder baseado no seu código).*
 
 ```markdown
-### 📦 Deployments & Projects
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=transparent&title_color=D71A1A&text_color=ffffff&icon_color=D71A1A&bg_color=101010&hide_border=true" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=transparent&title_color=D71A1A&text_color=ffffff&icon_color=D71A1A&bg_color=101010&hide_border=true" />
+  </a>
+</div>
+<br />
 
-| Project | Backend Concept / Logic | Tech Stack |
+### 🚀 Project Structure (Roadmap)
+
+```text
+C:.
+└── 📂 Java_Backend_Roadmap
+    ├── 📁 Lvl_0_Logic              [✔ DONE]
+    ├── 📁 Lvl_1_Git_Version        [✔ DONE]
+    ├── 📁 Lvl_2_Java_Core          [✔ DONE]
+    ├── 📁 Lvl_3_OOP_Concepts       [✔ DONE]
+    ├── 📁 Lvl_4_Databases_SQL      [✔ DONE]
+    ├── 📂 Lvl_5_Spring_Framework   [⚡ LOADING...]  <-- CURRENT FOCUS
+    ├── 🔒 Lvl_6_Microservices      [LOCKED]
+    └── 🔒 Lvl_7_System_Design      [LOCKED]
+
+### 5. Tech Stack (Badges)
+*Uma linha visual rápida com as tecnologias que você domina, para que recrutadores vejam de relance.*
+
+```markdown
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+<br />
+
+### 📦 Deployments
+
+| Project | Logic & Architecture | Stack |
 | :--- | :--- | :--- |
-| **Auto Brilho App** | **Algorithmic Logic:** Algoritmo JS proprietário para construção dinâmica de strings (Payloads) e automação de vendas via WhatsApp API. | `JavaScript` `Logic API` |
-| **Studio Nayra** | **Architecture:** Estruturação de dados para agendamento e otimização de performance web (SEO Técnico). | `Web` `Optimization` |
-| **School System** | **POO Principles:** Implementação acadêmica de herança, polimorfismo e encapsulamento em Java puro. | `Java` `POO` |
+| **Auto Brilho** | **Algorithmic Logic:** Automação de strings dinâmicas (Payloads) e manipulação de DOM para vendas. | `JS` `Logic API` |
+| **Studio Nayra** | **Performance:** Estruturação de dados e otimização técnica (SEO/Loading) para agendamentos. | `Web` `Optimization` |
+| **School System** | **POO Core:** Aplicação prática de herança, polimorfismo e encapsulamento. | `Java` `POO` |
+
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online-success?style=flat&color=101010&labelColor=D71A1A">
-
   <a href="https://www.linkedin.com/in/gustavo-cazzine/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
