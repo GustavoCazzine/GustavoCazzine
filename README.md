@@ -1,63 +1,68 @@
 <div align="center">
-  <h1>Hi, I'm Gustavo Cazzine 👨‍💻</h1>
-  <h3>Software Engineering Student | Java Backend Focus</h3>
-  
-  <p>
-    Estudante de Engenharia de Software unindo a eficiência da <b>Logística</b><br>
-    com a lógica de <b>Desenvolvimento de Sistemas</b>.
-  </p>
-
-  <a href="https://www.linkedin.com/in/gustavo-cazzine/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=D71A1A&center=true&vCenter=true&width=600&lines=public+class+GustavoCazzine+extends+Dev;System.out.println(%22Hello,+World!%22);Building+Backend+Solutions..." alt="Typing SVG" />
   </a>
 </div>
+<br />
 
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-## 🛠️ Tech Stack & Arsenal
+### 💾 Source_Code.java
+
+```java
+public class GustavoCazzine {
+    
+    String role = "Software Engineering Student";
+    String focus = "Java Backend Ecosystem";
+    String location = "Piracicaba, SP";
+
+    String[] hobbies = {
+        "Financial Analysis",
+        "Desktop Gaming",
+        "Code Architecture"
+    };
+
+    public void currentObjective() {
+        System.out.println("Mastering Spring Boot");
+    }
+}
+
+<div align="left"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/JAVA-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SPRING-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-%2523101010.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" /> </div> </td> <td width="50%" valign="top">
+
+@@ The Path to Seniority @@
++ [x] Lvl 0: Logic & Algorithms
++ [x] Lvl 1: Version Control (Git)
++ [x] Lvl 2: Java Core (Syntax/Collections)
++ [x] Lvl 3: Object Oriented Programming
++ [x] Lvl 4: Relational Databases (SQL)
+! [!] Lvl 5: Frameworks (Spring) <-- YOU ARE HERE
+- [ ] Lvl 6: Microservices & Cloud
+- [ ] Lvl 7: System Design & Architecture
+- [ ] Lvl 8: Seniority Achieved
+</td>
+
+</tr> </table> <br />
+
+### 3\. Projetos (Tabela Técnica)
+
+*Cole abaixo da tabela anterior.*
+
+```markdown
+### 📦 Deployments & Projects
+
+| Project | Backend Concept / Logic | Tech Stack |
+| :--- | :--- | :--- |
+| **Auto Brilho App** | **Algorithmic Logic:** Algoritmo JS proprietário para construção dinâmica de strings (Payloads) e automação de vendas via WhatsApp API. | `JavaScript` `Logic API` |
+| **Studio Nayra** | **Architecture:** Estruturação de dados para agendamento e otimização de performance web (SEO Técnico). | `Web` `Optimization` |
+| **School System** | **POO Principles:** Implementação acadêmica de herança, polimorfismo e encapsulamento em Java puro. | `Java` `POO` |
+<br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-  
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/intellij-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
-</div>
+  <img src="https://img.shields.io/badge/System_Status-Online-success?style=flat&color=101010&labelColor=D71A1A">
 
-<br>
-
-## 📊 Analytics & Code Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Stats"/>
+  <a href="https://www.linkedin.com/in/gustavo-cazzine/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Langs"/>
-  </a>
-</div>
-
-<br>
-
-## 🏆 Portfolio & Projects
-
-| **Project** | **Stack / Tech** | **Type** |
-|:---:|:---:|:---:|
-| **[Auto Brilho Web App](https://github.com/GustavoCazzine/SEU_LINK_AQUI)** | JavaScript (ES6), DOM, WhatsApp API | 💼 **Freelance (Real)** |
-| **[Studio Nayra Ananias](https://www.studionayraananias.com.br/)** | HTML5, CSS3, UI/UX Design | 💼 **Freelance (Real)** |
-| **School Management System** | Java Core, POO, Swing | 🎓 **Academic / Study** |
-| **Barbershop Manager** | Java, Lógica de Agendamento | 🎓 **Academic / Study** |
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=dracula&hide_border=true" alt="Streak" />
 </div>
