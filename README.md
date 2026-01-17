@@ -46,11 +46,23 @@
 
 ## ARQUITETURA & PRÁTICAS
 
-• Separação clara de responsabilidades  
-• Regras de negócio isoladas do framework  
-• Camadas bem definidas (Controller / Service / Domain / Repository)  
-• Persistência orientada à integridade e consistência  
-• Código pensado para manutenção e evolução  
+<p align="center">
+  <img src="https://img.shields.io/badge/Arquitetura-Camadas%20Bem%20Definidas-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-Dom%C3%ADnio%20Isolado-203a43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Princ%C3%ADpios-Baixo%20Acoplamento-2c5364?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Controller-Orquestra%C3%A7%C3%A3o-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Service-Regras%20de%20Neg%C3%B3cio-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository-Persist%C3%AAncia-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>
+    Código orientado à clareza, manutenção e evolução contínua em ambientes enterprise.
+  </sub>
+</p>
 
 <br/>
 
@@ -58,14 +70,14 @@
 
 <p align="center">
   <img height="155"
-    src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&hide_border=true&count_private=true&theme=transparent&bg_color=00000000&title_color=E5E7EB&text_color=CBD5E1&icon_color=38BDF8" />
+    src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=38BDF8&title_color=E5E7EB" />
   <img height="155"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&hide_border=true&theme=transparent&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB&currStreakNum=CBD5E1" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=github-dark&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB" />
 </p>
 
 <p align="center">
   <img height="135"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=E5E7EB&text_color=CBD5E1&langs_count=6" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=github_dark&hide_border=true&title_color=E5E7EB&langs_count=6" />
 </p>
 
 <br/>
