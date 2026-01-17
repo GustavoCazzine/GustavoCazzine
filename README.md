@@ -68,20 +68,15 @@
 
 ## MÉTRICAS
 
-<p align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dark&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="160"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoCazzine&theme=dark&hide_border=true" />
-</p>
+[![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoCazzine&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img height="140"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dark&hide_border=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCazzine&layout=compact&theme=dark&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GustavoCazzine&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 <br/>
 
