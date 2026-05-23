@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Gustavo%20Cazzine&fontSize=38&fontColor=ffffff&desc=Engenharia%20de%20Software%20|%20Java%20Backend%20Enterprise&descSize=18&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Gustavo%20Cazzine&fontSize=38&fontColor=ffffff&desc=AI%20Engineering%20|%20Machine%20Learning%20|%20Computer%20Vision&descSize=18&descAlign=50" />
 </p>
 
 <br/>
 
-## SOBRE
+## ABOUT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Java%20Backend-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Arquitetura-203a43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scope-Sistemas%20Enterprise-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Field-Machine%20Learning-203a43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialty-Computer%20Vision-2c5364?style=for-the-badge" />
 </p>
 
 <p align="center">
-  Desenvolvimento backend com foco em sistemas Java orientados a regras de negócio,
-  persistência de dados e evolução arquitetural.
+  Building intelligent systems with Python focused on Machine Learning,
+  Computer Vision and automation.
 </p>
 
 <p align="center">
-  Domínio • Baixo acoplamento • Clareza • Manutenibilidade
+  Deep Learning • Data • Automation • Continuous Learning
 </p>
 
 <div align="center">
@@ -35,38 +35,38 @@
 ## STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,python,git,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mysql,postgres,git,linux&theme=dark" />
 </p>
 
 <p align="center">
-  <sub>Backend Java • Persistência de Dados • Automação de Processos</sub>
+  <sub>Python • Machine Learning • AI Systems • Computer Vision</sub>
 </p>
 
 <br/>
 
-## ARQUITETURA & PRÁTICAS
+## AI & DEVELOPMENT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arquitetura-Camadas%20Bem%20Definidas-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Dom%C3%ADnio%20Isolado-203a43?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Princ%C3%ADpios-Baixo%20Acoplamento-2c5364?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Model%20Development-0f2027?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data-Processing%20Pipelines-203a43?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vision-Image%20Analysis-2c5364?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Controller-Orquestra%C3%A7%C3%A3o-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Service-Regras%20de%20Neg%C3%B3cio-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repository-Persist%C3%AAncia-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Automation-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML-Experiments-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DeepLearning-Neural%20Networks-111827?style=for-the-badge" />
 </p>
 
 <p align="center">
   <sub>
-    Código orientado à clareza, manutenção e evolução contínua em ambientes enterprise.
+    Focused on intelligent systems, model training and real-world AI applications.
   </sub>
 </p>
 
 <br/>
 
-## MÉTRICAS
+## METRICS
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 <br/>
 
 <p align="center">
-  <sub>Backend engineering • arquitetura • evolução contínua</sub>
+  <sub>AI engineering • machine learning • computer vision</sub>
 </p>
 
 <p align="center">
